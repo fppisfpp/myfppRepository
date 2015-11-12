@@ -1,2 +1,2 @@
 # myfppRepository
-It,s belongs to fpp
+It,s belongs to fpp,and it is my first Repository!thank you !
